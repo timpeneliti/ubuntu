@@ -1,0 +1,2 @@
+pkg install proot wget git
+https://partner-images.canonical.com/core/bionic/current/ubuntu-bionic-core-cloudimg-armhf-root.tar.gz
